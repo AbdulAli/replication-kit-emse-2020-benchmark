@@ -1,0 +1,5 @@
+proj,ver,class,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+forrest,0.8,org.apache.forrest.locationmap.LocationMapModule,11,2,0,17,53,37,0,17,7,0.75,522,1,1,0.357142857,0.366666667,0,0,45.54545455,2,0.9091,4
+forrest,0.8,org.apache.forrest.conf.AntProperties,7,4,0,5,45,21,3,2,7,2,215,0,0,0.9,0.30952381,2,5,29.71428571,5,1.7143,0
+forrest,0.8,org.apache.forrest.conf.ForrestConfUtils,8,1,0,4,17,28,2,2,6,1.142857143,126,0,0,0,0.25,0,0,14.625,5,1.375,0
+forrest,0.8,org.apache.forrest.locationmap.source.impl.LocationmapSourceFactory,5,2,0,18,25,6,0,18,5,1,152,0.5,0,0.555555556,0.333333333,0,0,28.6,1,0.8,2

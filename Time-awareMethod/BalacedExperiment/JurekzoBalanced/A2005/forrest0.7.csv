@@ -1,0 +1,10 @@
+name,version,name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+forrest,0.7,org.apache.forrest.conf.ForrestConfModule,10,3,0,16,42,37,0,16,5,0.925925926,340,1,1,0.5,0.366666667,1,1,32.4,2,1.1,8
+forrest,0.7,org.apache.forrest.locationmap.LocationMapModule,10,2,0,17,38,35,0,17,7,0.722222222,291,1,1,0.384615385,0.37037037,0,0,27.5,1,0.8,3
+forrest,0.7,org.apache.forrest.locationmap.lm.LocationMap,7,2,0,15,48,5,2,14,4,0.9375,364,0.5,2,0.454545455,0.371428571,0,0,49.85714286,2,1,2
+forrest,0.7,org.apache.forrest.sourcetype.SourceType,4,1,0,9,24,0,1,8,4,0.5,144,1,0,0,0.5,0,0,34.5,4,1.5,1
+forrest,0.7,org.apache.forrest.conf.ForrestConfUtils,7,1,0,4,16,21,2,2,5,1.166666667,104,0,0,0,0.238095238,0,0,13.71428571,5,1.4286,1
+forrest,0.7,org.apache.forrest.sourcetype.SourceTypeAction,3,2,0,24,43,0,0,24,3,0.75,247,1,0,0.714285714,0.428571429,0,0,80.66666667,1,0.6667,0
+forrest,0.7,org.apache.forrest.locationmap.lm.SelectNode,3,3,0,13,30,0,2,13,3,0.625,216,1,2,0.818181818,0.444444444,2,2,69.66666667,1,0.6667,0
+forrest,0.7,org.apache.forrest.sourcetype.SourceInfo,14,1,0,7,19,69,7,0,14,0.897435897,81,1,0,0,0.785714286,0,0,4.357142857,1,0.9286,0
+forrest,0.7,org.apache.forrest.locationmap.lm.LocatorNode,5,3,0,14,34,2,4,13,3,0.666666667,235,1,2,0.692307692,0.333333333,1,1,45.4,1,0.8,0

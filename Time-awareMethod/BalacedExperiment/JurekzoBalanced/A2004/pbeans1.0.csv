@@ -1,0 +1,13 @@
+name,version,name,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,loc,dam,moa,mfa,cam,ic,cbm,amc,max_cc,avg_cc,bug
+pBeans,1,net.sourceforge.pbeans.data.DatabaseFactory,1,1,0,3,1,0,2,1,1,2,1,0,0,0,1,0,0,0,1,1,0
+pBeans,1,net.sourceforge.pbeans.data.ResultsIterator,1,1,0,5,1,0,5,0,1,2,1,0,0,0,1,0,0,0,1,1,0
+pBeans,1,net.sourceforge.pbeans.DuplicateEntryException,3,4,0,3,6,3,2,1,3,2,18,0,0,1,0.777777778,0,0,5,0,0,0
+pBeans,1,net.sourceforge.pbeans.util.BeanMapper,3,1,0,0,17,3,0,0,3,2,75,0,0,0,0.5,0,0,24,1,0.6667,0
+pBeans,1,net.sourceforge.pbeans.StoreException,3,3,1,7,6,3,7,0,3,2,18,0,0,1,0.777777778,0,0,5,0,0,0
+pBeans,1,net.sourceforge.pbeans.ObjectClass,6,1,0,3,7,3,2,1,6,0.6,34,1,0,0,0.555555556,0,0,4.333333333,1,0.6667,0
+pBeans,1,net.sourceforge.pbeans.data.GenericDatabase,2,2,0,3,7,1,1,2,1,2,33,0,0,0.981132075,0.6,1,1,15.5,1,0.5,1
+pBeans,1,net.sourceforge.pbeans.PersistentMapEntry_StoreInfo,2,2,0,2,4,1,0,2,2,2,25,0,0,0.944444444,1,0,0,11.5,1,0.5,1
+pBeans,1,net.sourceforge.pbeans.data.MySQLDatabase,4,2,0,3,13,6,1,2,2,2,73,0,0,0.945454545,0.458333333,0,0,17.25,2,1,3
+pBeans,1,net.sourceforge.pbeans.data.AbstractDatabase,27,1,3,13,122,283,7,9,11,0.880769231,1394,1,1,0,0.190883191,0,0,50.25925926,2,1.037,4
+pBeans,1,net.sourceforge.pbeans.Store,74,1,0,18,185,2517,6,16,21,0.894216134,2390,1,2,0,0.152296535,0,0,31.05405405,5,1.2297,4
+pBeans,1,net.sourceforge.pbeans.AbstractStoreInfo,7,1,3,9,39,13,3,6,6,0.75,446,1,0,0,0.404761905,0,0,62.42857143,27,5.1429,4
