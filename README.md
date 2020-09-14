@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/248352455.svg)](https://zenodo.org/badge/latestdoi/248352455)
 
-Our research paper compares two methods: Herbold method which is time agnostic .vs. Time-wise evaluation method.
+Our research paper ([Link](https://doi.org/10.1007/s10664-020-09878-9)) compares two methods: Herbold method which is time agnostic .vs. Time-wise evaluation method.
 
 The HerboldMethod folder consists of an instruction README.md, dataset and evaluation code for HerboldMethod. <br/>
 The Time-awareMethod folder consists of dataset, time-wise evaluation code and R-scripts for data analysis. <br/>
