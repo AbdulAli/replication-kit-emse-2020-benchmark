@@ -15,5 +15,25 @@ The Time-awareMethod folder consists of dataset, time-wise evaluation code and R
 * R-scripts for analyzing the results of time-aware .vs. HerboldMethod: [Link](https://github.com/AbdulAli/replication-kit-emse-2020-benchmark/tree/master/Time-awareMethod/AnalyzingResults)
 * Data with class-balancing is available at: [Link](https://github.com/AbdulAli/replication-kit-emse-2020-benchmark/tree/master/Time-awareMethod/BalacedExperiment)
 
+### Cite this work:
 
 
+
+>> @article{bangash2020EMSEstability,
+ doi = {https://doi.org/10.1007/s10664-020-09878-9},
+ accepted = {2020-08-07},
+ author = {Abdul Bangash and Hareem Sahar and Abram Hindle and Karim Ali},
+ authors = {Abdul Bangash, Hareem Sahar, Abram Hindle, Karim Ali},
+ code = {bangash2020EMSEstability},
+ day = {7},
+ institution = {University of Alberta},
+ journal = {Empirical Software Engineering},
+ month = {August},
+ pages = {1--39},
+ role = { Researcher / author},
+ title = {On the Time-Based Conclusion Stability of Cross-Project Defect Prediction Models},
+ type = {article},
+ url = {http://softwareprocess.ca/pubs/bangash2020EMSEstability.pdf},
+ venue = {Empirical Software Engineering},
+ year = {2020}
+}
